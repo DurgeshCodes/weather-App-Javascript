@@ -9,7 +9,7 @@ Its a weather web app made using Javascript and [Accuweather API](https://www.ac
 
 <div align="center" width="50%">
  
-<img src="img/" >
+<img src="img/weather1.png" >
 </div>
 
 
